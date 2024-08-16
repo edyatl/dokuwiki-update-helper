@@ -19,7 +19,7 @@ This script automates the process of upgrading DokuWiki by following the officia
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/dokuwiki-update-helper.git
+   git clone https://github.com/edyatl/dokuwiki-update-helper.git
    cd dokuwiki-update-helper
    ```
 
